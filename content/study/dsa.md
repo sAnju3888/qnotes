@@ -9,3 +9,5 @@ tags: ["youtube", "quality","dsa"]
 - Watch 9 hrs of lecture from mycodeschool on freecodecamp channel
   
   [url](https://youtu.be/B31LgI4Y4DQ?si=H933QRRnHlcbBcNb) Its recommed to all!!!
+
+- Scrimba is Best Recommended for the front-end development
